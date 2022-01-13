@@ -1,0 +1,11 @@
+
+div.footer{
+	text-align: center;
+	background-color: #606060;
+	height: 80px;
+	padding-top: 0.05px; 
+}
+
+a{
+	text-decoration: underline;
+}

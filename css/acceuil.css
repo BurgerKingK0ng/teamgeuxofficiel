@@ -1,0 +1,78 @@
+	div.end{
+		background-color: #F5DEB3;
+	}
+
+
+	h1.first_title{
+		text-align: center;
+	}
+
+	p.info{
+		text-align: center;
+		font-size: 20px;
+		color: red;
+	}
+
+	div.member div{
+		display: inline-block;
+		background-color: dark;
+	}
+
+	div.left{
+		float: left;
+		background-color: red;
+		width: 400px;
+	}
+
+	div.right{
+		float: right;
+		background-color: lightblue;
+		width: 400px;
+	}
+
+	div.member p{
+		text-align: center;
+	}
+
+	div.member h1{
+		text-align: center;
+	}
+
+	div.member div.center img.b{
+		margin-bottom: 30px;
+	}
+
+	div.member div.center p#fleche{
+		font-size: 19px;
+	}
+
+	div.member h1.f{
+		color: #FFD700;
+		text-decoration: underline;
+	}
+
+	div.recrutement{
+		text-align: center;
+	}
+
+	a.d{
+		text-decoration: none;
+		color: #000000;
+	}
+
+	div.bref{
+		text-align: center;
+		text-decoration: none;
+	}
+
+	div.but{
+		text-align: center;
+	}
+
+	p#r{
+		text-align: center;
+	}
+
+	p.r2{
+		padding-top: 25px;
+	}

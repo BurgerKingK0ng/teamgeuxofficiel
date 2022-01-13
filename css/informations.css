@@ -1,0 +1,30 @@
+		div.explication-page{
+			text-align: center;
+			font-size: 100pw;
+		}
+
+		h1.fondateur{
+			text-decoration : underline;
+			color: #FFD700;
+		}
+
+		p.e-p{
+			font-size: 50px;
+		}
+
+		/*img{
+			margin-left: 20%;
+		}*/
+
+		section{
+			text-align: center;
+			font-size: 30px;
+		}
+
+		section.burgerkingkong{
+			background-color: red;
+		}
+
+		section.maxandro{
+			background-color: lightblue;
+		}

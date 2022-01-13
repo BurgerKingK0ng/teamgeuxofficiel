@@ -1,0 +1,42 @@
+		section.contact div{
+			display: inline-block;
+			height: 98%;
+		}
+
+		section.contact div a{
+			text-decoration: none;
+			color: #000;
+		}
+
+		div.discord{
+			float: left;
+			padding: 20px;
+		}
+
+		div.mail{
+			margin-left: 33%;
+			padding: 20px;
+			color: #ffffff;
+			background-color: white;
+		}
+
+		div.reddit{
+			float: right;
+			padding: 20px;
+			color: white;
+			background-color: #ffffff;
+		}
+
+		section.formulaire{
+			text-align: center;
+		}
+
+		form input{
+			margin: 5px;
+		}
+
+		form textarea{
+			margin: 5px;
+			height: 200px;
+			width: 250px;
+		}
